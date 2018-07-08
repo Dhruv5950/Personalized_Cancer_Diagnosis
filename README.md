@@ -9,9 +9,9 @@ Then, we applied different models and plotted Confusion matrix and reported log-
 
 Techniques Used:
 
-### Naive Bayes
-### K-NN
-### Logistic Regression
-### Linear SVM
-### Random Forest
+#### Naive Bayes
+#### K-NN
+#### Logistic Regression
+#### Linear SVM
+#### Random Forest
 
